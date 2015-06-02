@@ -1,0 +1,192 @@
+Cmp-Mod V01 Created by CvPcb (2014-02-26 BZR 4721)-product date = Tuesday, 26 May 2015 19:49:05
+
+BeginCmp
+TimeStamp = /5563EC2E;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = discret:C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5563EC42;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = discret:C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E506;
+Reference = C3;
+ValeurCmp = 0.01uF;
+IdModule  = discret:C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562DBA8;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = discret:C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E6AF;
+Reference = C5;
+ValeurCmp = 0.01;
+IdModule  = discret:C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562EBE3;
+Reference = C6;
+ValeurCmp = 0.01uF;
+IdModule  = discret:C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E3FF;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562DAF1;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E804;
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562D979;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = pin_array:PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E22C;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = pin_array:PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E240;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = pin_array:PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E9ED;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = pin_array:PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5563F85E;
+Reference = P5;
+ValeurCmp = Power_In;
+IdModule  = pin_array:PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562D9C7;
+Reference = R1;
+ValeurCmp = 10M;
+IdModule  = discret:R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562D9DB;
+Reference = R2;
+ValeurCmp = 10M;
+IdModule  = discret:R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E4F2;
+Reference = R3;
+ValeurCmp = 1M;
+IdModule  = discret:R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562DB94;
+Reference = R4;
+ValeurCmp = 2M;
+IdModule  = discret:R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E744;
+Reference = R5;
+ValeurCmp = 1M;
+IdModule  = discret:R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562EBFC;
+Reference = R6;
+ValeurCmp = 10M;
+IdModule  = discret:R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E1B5;
+Reference = R7;
+ValeurCmp = 1K;
+IdModule  = discret:R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E1C9;
+Reference = R8;
+ValeurCmp = 1K;
+IdModule  = discret:R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E8B7;
+Reference = R9;
+ValeurCmp = 47K;
+IdModule  = discret:R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562E89E;
+Reference = R10;
+ValeurCmp = 1K;
+IdModule  = discret:R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562DD78;
+Reference = RV1;
+ValeurCmp = 10K;
+IdModule  = pin_array:PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562ED6B;
+Reference = RV2;
+ValeurCmp = 100K;
+IdModule  = pin_array:PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5562DA82;
+Reference = U1;
+ValeurCmp = TL084D;
+IdModule  = dip_sockets:DIP-14__300_ELL;
+EndCmp
+
+EndListe
